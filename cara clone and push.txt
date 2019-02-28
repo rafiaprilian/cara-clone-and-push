@@ -1,0 +1,26 @@
+cara clone dan cara push RAFI APRILIAN
+cara clone
+
+1. buat folder baru
+2. klik kanan folder baru tersebut
+3. pilih Git Bash Here
+4. Setelah itu Ketik  git clone alamatnya dari yg saya buat seperti 
+ git clone https://github.com/rafiaprilian180402/InputBarang.git 
+5. setalah itu langsung klik enter
+
+cara push
+1. pilih new repository pada halaman profile anda
+2. buat repository baru sesuai nama projek yg akan di upload,isi repository name,description,
+   pilih public agar project bisa di akses semua orang,Initialize this repository with a README
+   hanya pilihan boleh di pilih atau tidak, jika di pilih maka file README.md akan otomatis 
+   terbuat tapi jika tidak bisa kita buat setelah upload projek.
+3. jika sudah, buka folder dan pilih project yg mau di upload
+4. klik kanan pada folder project ,pilih Git Bash Here
+5. setelah itu ketikkan git init ,lalu enter
+6. setelah itu ketikkan git add *,lalu enter
+7. setelah itu ketikkan git commit -m "commentnya apa",lalu enter
+8. Setelah itu ketikkan git remote add origin alamatnya dari git
+   Yang saya buat seperti git remote add //github.com/rafiaprilian180402/InputBarang.git,lalu enter
+9. setelah itu ketikkan git push origin master,push ini artinya sama aja dengan upload.
+10.selesai
+
